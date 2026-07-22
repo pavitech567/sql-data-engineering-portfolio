@@ -1,0 +1,11 @@
+customer_id,first_name,last_name,email,city,state
+1,John,Smith,john.smith@email.com,Dallas,TX
+2,Emma,Johnson,emma.j@email.com,Austin,TX
+3,Michael,Brown,michael.b@email.com,Seattle,WA
+4,Sophia,Davis,sophia.d@email.com,Chicago,IL
+5,David,Wilson,david.w@email.com,New York,NY
+6,Olivia,Moore,olivia.m@email.com,Miami,FL
+7,James,Taylor,james.t@email.com,Denver,CO
+8,Ava,Anderson,ava.a@email.com,Boston,MA
+9,Daniel,Thomas,daniel.t@email.com,Phoenix,AZ
+10,Isabella,Jackson,isabella.j@email.com,Atlanta,GA
